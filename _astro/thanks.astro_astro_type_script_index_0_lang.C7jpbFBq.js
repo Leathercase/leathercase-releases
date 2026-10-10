@@ -1,0 +1,1 @@
+import{t as e}from"./thanks.C-v_3qvp.js";var t=document.querySelector(`[data-thanks]`);t&&e(t);
