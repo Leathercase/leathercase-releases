@@ -1,0 +1,1 @@
+import{t as e}from"./config.DEYeL76k.js";for(let t of document.querySelectorAll(`a[data-choose-locale]`))t.addEventListener(`click`,()=>{try{localStorage.setItem(e,t.dataset.chooseLocale??``)}catch{}});

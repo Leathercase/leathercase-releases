@@ -1,0 +1,1 @@
+var e=`leathercase-locale`;export{e as t};
