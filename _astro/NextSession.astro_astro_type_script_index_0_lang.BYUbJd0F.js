@@ -1,0 +1,1 @@
+function e(e){let t=[...e.querySelectorAll(`[data-end]`)],n=()=>{let n=Date.now(),r=t.find(e=>Number(e.dataset.end)>n);for(let e of t)e.hidden=e!==r;e.hidden=r===void 0};n(),window.setInterval(n,6e4)}var t=document.querySelector(`[data-next]`);t&&e(t);

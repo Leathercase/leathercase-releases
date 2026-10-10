@@ -1,1 +1,0 @@
-import{t as e}from"./tabs.DJrNsApt.js";for(let t of document.querySelectorAll(`#journey [data-tabs]`))e(t);
