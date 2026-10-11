@@ -1,0 +1,76 @@
+# Leathercase
+
+> See your whole story. Leathercase is a free desktop app that shows the structure of your book over the files you already write in.
+
+A free writing app that shows you the structure of your book (its scenes, threads and characters) over the files you already write in. Made by a novelist who is also a software engineer.
+
+The app speaks English and Portuguese. More languages are coming.
+
+## Three things it does
+- **Your book on one grid**: Every scene, its point of view and the threads that run through it, laid out so the sag in chapter twelve shows itself.
+- **Threads you can follow**: Each subplot traced across the book, so nothing goes missing and nothing arrives unearned.
+- **Characters that change**: What each character carries from scene to scene, and where they turn.
+
+## The views
+- [Writer board](https://leathercase.app/guide/guide/writer-board): What inspires me? Every reference, line, image and idea you keep, shared across all your stories. Tag them, search them, and link them into any story.
+- [Beat board](https://leathercase.app/guide/guide/beat-board): How is it built? Cards in lanes named after your structure: acts, parts, chapters, or your own. Drag ideas in before a single scene is written.
+- [Plot grid](https://leathercase.app/guide/guide/plot-grid): Where is each thread? Scenes across the top, threads down the side. See what you planted, where it returns, and where a thread goes quiet.
+- [Threads](https://leathercase.app/guide/guide/threads): Does it pay off? Follow one storyline from first mention to last. Plants, payoffs and reversals are marked, and a broken link is flagged.
+- [Graph](https://leathercase.app/guide/guide/graph): What holds the story together? Every character, place and thing, and the ties you draw between them. It says in plain words who holds the story together and which ties are under strain.
+- [Manuscript](https://leathercase.app/guide/guide/manuscript): What did I write? The whole draft as one scroll, first line to last. Select a passage to see its threads, then open it in your own app.
+
+## Three promises
+- **Your files, your computer.** Leathercase reads the files you write in and never changes them. What it adds is markdown and JSON beside your stories, readable without it, today or in twenty years.
+- **No AI writing your book.** Connect your own assistant if you want one. You see everything it touches, and it never writes prose.
+- **Free, for good.** No trial, no account, no locked features.
+
+## Questions writers ask
+- **Is it really free?** Yes. Patrons fund it, and nothing is held back.
+- **Does it use AI?** Not to write. It reads your story’s structure with plain rules, and you can connect your own AI assistant if you choose.
+- **Where are my files?** Where they are now. Leathercase reads them in place and keeps its own notes beside your stories. If it disappeared tomorrow, your book would still open.
+- **Does it read Scrivener or Word files?** Yes. It reads Scrivener projects and Word documents as they are, and Markdown, Obsidian vaults and Fountain screenplays too. It never changes them.
+- **Which languages does the app speak?** English and Portuguese today. Spanish, French, German, Italian, Japanese, Korean, and Chinese are in progress and will come in future releases. This website's translations are written by AI.
+- **Who’s behind it?** One person, André Amnc. Write to me at hello@leathercase.app.
+
+## Guide
+- [Leathercase](https://leathercase.app/guide/)
+- [Beat board](https://leathercase.app/guide/guide/beat-board)
+- [Characters](https://leathercase.app/guide/guide/characters)
+- [Comments and word lists](https://leathercase.app/guide/guide/comments)
+- [Connect an agent](https://leathercase.app/guide/guide/connect-an-agent)
+- [Declaring a story](https://leathercase.app/guide/guide/declare-a-story)
+- [The Desk](https://leathercase.app/guide/guide/desk)
+- [Export](https://leathercase.app/guide/guide/export)
+- [Find, open and make](https://leathercase.app/guide/guide/find)
+- [Getting started](https://leathercase.app/guide/guide/getting-started)
+- [Graph](https://leathercase.app/guide/guide/graph)
+- [Homes and stories](https://leathercase.app/guide/guide/homes-and-stories)
+- [How a story is read](https://leathercase.app/guide/guide/how-a-story-is-read)
+- [Proposals and the inbox](https://leathercase.app/guide/guide/inbox)
+- [Lenses and style checks](https://leathercase.app/guide/guide/lenses)
+- [Manuscript](https://leathercase.app/guide/guide/manuscript)
+- [The mate](https://leathercase.app/guide/guide/mate)
+- [Plot grid](https://leathercase.app/guide/guide/plot-grid)
+- [Scaffold a story folder](https://leathercase.app/guide/guide/scaffold-a-story)
+- [Sentence log](https://leathercase.app/guide/guide/sentence-log)
+- [Story settings](https://leathercase.app/guide/guide/story-settings)
+- [Tags](https://leathercase.app/guide/guide/tags)
+- [Threads](https://leathercase.app/guide/guide/threads)
+- [A tour of the window](https://leathercase.app/guide/guide/tour)
+- [The Writer Board](https://leathercase.app/guide/guide/writer-board)
+- [FAQ and troubleshooting](https://leathercase.app/guide/reference/faq)
+- [Files Leathercase reads](https://leathercase.app/guide/reference/formats)
+- [Front matter](https://leathercase.app/guide/reference/front-matter)
+- [Keys and commands](https://leathercase.app/guide/reference/keys)
+- [Languages](https://leathercase.app/guide/reference/languages)
+- [Privacy](https://leathercase.app/guide/reference/privacy)
+- [Settings](https://leathercase.app/guide/reference/settings)
+- [Files Leathercase writes](https://leathercase.app/guide/reference/suite-files)
+- [Updates and uninstalling](https://leathercase.app/guide/reference/updates)
+
+## Links
+- [See the downloads](https://leathercase.app/#start)
+- [Guide](https://leathercase.app/guide/)
+- [Workshops](https://leathercase.app/workshops/)
+- [Patrons](https://leathercase.app/#patrons)
+- [Read the newsletter](https://andramnc.substack.com)
