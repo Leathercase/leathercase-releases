@@ -1,0 +1,33 @@
+# For Leathercase/leathercase-releases, at .github/workflows/landing-rebuild.yml. NOT INSTALLED:
+# adding it pushes to the public releases repo, which needs Andre's word (CLAUDE.md, rule 9).
+#
+# When a release is published, it asks the landing (Leathercase/landing, private) to rebuild, so
+# the download buttons name the new version. The landing's Deploy workflow already listens for
+# repository_dispatch of type release-published.
+#
+# The token: a repository_dispatch to a private repo needs Contents: write on it. Install the org
+# app "Leathercase Pages" on Leathercase/landing as well (Contents: read and write), and give this
+# repo the app's ID and key as LANDING_APP_ID (variable) and LANDING_APP_PRIVATE_KEY (secret).
+name: Rebuild the landing
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v2
+        id: app-token
+        with:
+          app-id: ${{ vars.LANDING_APP_ID }}
+          private-key: ${{ secrets.LANDING_APP_PRIVATE_KEY }}
+          owner: Leathercase
+          repositories: landing
+      - run: gh api repos/Leathercase/landing/dispatches -f event_type=release-published -f "client_payload[tag]=${{ github.event.release.tag_name }}"
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
