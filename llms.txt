@@ -50,6 +50,7 @@ The app speaks English and Portuguese. More languages are coming.
 - [Lenses and style checks](https://leathercase.app/guide/guide/lenses)
 - [Manuscript](https://leathercase.app/guide/guide/manuscript)
 - [The mate](https://leathercase.app/guide/guide/mate)
+- [Mood board](https://leathercase.app/guide/guide/mood-board)
 - [Plot grid](https://leathercase.app/guide/guide/plot-grid)
 - [Scaffold a story folder](https://leathercase.app/guide/guide/scaffold-a-story)
 - [Sentence log](https://leathercase.app/guide/guide/sentence-log)
