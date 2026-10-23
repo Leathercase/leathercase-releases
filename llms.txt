@@ -33,13 +33,14 @@ The app speaks English and Portuguese. More languages are coming.
 - **Who’s behind it?** One person, André Amnc. Write to me at hello@leathercase.app.
 
 ## Guide
-- [Leathercase](https://leathercase.app/guide/)
+- [Leathercase guide: story structure over your own files](https://leathercase.app/guide/)
 - [Beat board](https://leathercase.app/guide/guide/beat-board)
 - [Characters](https://leathercase.app/guide/guide/characters)
 - [Comments and word lists](https://leathercase.app/guide/guide/comments)
 - [Connect an agent](https://leathercase.app/guide/guide/connect-an-agent)
 - [Declaring a story](https://leathercase.app/guide/guide/declare-a-story)
 - [The Desk](https://leathercase.app/guide/guide/desk)
+- [Editor](https://leathercase.app/guide/guide/editor)
 - [Export](https://leathercase.app/guide/guide/export)
 - [Find, open and make](https://leathercase.app/guide/guide/find)
 - [Getting started](https://leathercase.app/guide/guide/getting-started)
