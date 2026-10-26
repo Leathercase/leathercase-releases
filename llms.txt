@@ -76,6 +76,7 @@ The app speaks English and Portuguese. More languages are coming.
 - [Workshops](https://leathercase.app/workshops/)
 - [Patrons](https://leathercase.app/#patrons)
 - [Story software compared: 35 tools and Leathercase](https://leathercase.app/compare/): Scrivener, Plottr, Dabble, Final Draft, Obsidian and 30 more beside Leathercase: platforms, offline use, file formats, AI, plot grids and prices, sourced.
+- [Is Scrivener worth it? An honest answer](https://leathercase.app/is-scrivener-worth-it/): Scrivener is worth it if you want to organise your book inside it. If you would rather keep writing where you are, it is not. What it costs, and how to tell.
 - [Leathercase with Fountain: see your screenplay's structure](https://leathercase.app/with/fountain/): Leathercase reads a Fountain screenplay: acts, sluglines as scenes and places, cues as the cast. A plot grid and threads; your file is never changed.
 - [Leathercase with Obsidian: your vault as a novel](https://leathercase.app/with/obsidian/): Leathercase reads a story in your Obsidian vault, its links, aliases and properties, and shows a plot grid, threads and manuscript. It never writes your notes.
 - [Leathercase with Scrivener: see the shape of your project](https://leathercase.app/with/scrivener/): Leathercase reads a Scrivener project in binder order, never changes it, and shows its plot grid, threads, cast and manuscript. Free, offline, macOS and Linux.
